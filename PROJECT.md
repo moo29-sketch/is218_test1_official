@@ -4,4 +4,4 @@ Mo Opeyemi-Ajayi
 
 This project is a Python calculator assignment using Git, GitHub, and pytest.
 
-So visually, it should look like:
+The requirements file is committed so other developers can install the same project dependencies. The .venv folder is kept local because each developer can recreate the environment from requirements.txt.
